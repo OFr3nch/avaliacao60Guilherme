@@ -24,6 +24,7 @@ function ehPar(valor){
         console.log(false)
     }
 }
+ehPar(4)
 ehPar(7)
 
 //frase organizada
